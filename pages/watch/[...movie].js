@@ -19,6 +19,7 @@ export default function DetailMovie({ movie }) {
         <Col style={{ padding: '10px' }} span={12}>
           <h1>{movie.title}</h1>
           <p> {movie.overview} </p>
+          <p>test uchie</p>
         </Col>
         <Col span={6}>
           <Row>
